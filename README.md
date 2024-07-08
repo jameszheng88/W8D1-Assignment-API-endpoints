@@ -8,7 +8,7 @@ This Weather App API allows users to get current weather updates by entering the
 - Flask
 - Requests library
 
-In addition, it is also recommended to use a virtual environment. Instructions for creating a virtual environment as well as installing flask can be found here https://flask.palletsprojects.com/en/3.0.x/installation/
+In addition, it is recommended to use a virtual environment. Instructions for creating a virtual environment as well as installing flask can be found here https://flask.palletsprojects.com/en/3.0.x/installation/
 
 ## Set up instructions
 1. Clone the repository
